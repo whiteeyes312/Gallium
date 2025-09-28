@@ -1,0 +1,12 @@
+{
+	"geode": "4.8.0",
+	"gd": {
+		"win": "2.2074",
+		"android": "2.2074"
+	},
+	"id": "retrocantata.gallium",
+	"name": "Gallium",
+	"version": "v1.0.0",
+	"developer": "retrocantata",
+	"description": "performance mod"
+}
